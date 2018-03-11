@@ -1,0 +1,53 @@
+.main-menu{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    
+}
+.main-menu-item {
+    display: inline-block;
+    height: 50px;
+    margin-left: 10px;
+    line-height: 50px;
+    
+}
+
+.main-menu-item:hover
+{
+    background: red;
+}
+
+.main-menu-item a{
+    display: block;
+    height: 50px;
+    padding: 0px 15px;
+}
+
+
+
+header{
+    border-bottom: 1px solid #ccc;    
+    background: #fff200;
+}
+
+ul
+{
+    float: right;
+}
+
+.logo1 img
+{
+    width: 170px;
+    max-height: 50px;
+}
+
+.slider img
+{
+    max-width: 100%;
+  
+}
+
+.small-article img
+{
+    max-width: 100%;
+}
