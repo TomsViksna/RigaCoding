@@ -30,43 +30,7 @@
 <body>
 
 
-    <header>
-        <div class="container-fluid">
-            <div class="row">
-                <div class="col-md-3 col-xs-12 logo1">
-
-                    <a href="index.html"><img src="http://www.gvnjhns.com/static/img/posts/super/super-logo.png" alt="">
-                        </a>
-
-                </div>
-
-                <div class="col-md-9 col-xs-12">
-                    <ul class "main-menu">
-                        <li class="main-menu-item">
-                            <a href="index.html">Home</a>
-                        </li>
-
-                        <li class="main-menu-item">
-                            <a href="page2.html">Articles</a>
-                        </li>
-
-                        <li class="main-menu-item">
-                            <a href="#"> Chat</a>
-                        </li>
-
-                        <li class="main-menu-item">
-                            <a href="#"> Register</a>
-                        </li>
-
-                        <li class="main-menu-item">
-                            <a href="#"> Article</a>
-                        </li>
-                </div>
-
-
-
-            </div>
-    </header>
+        <?php include 'header.php';?>
 
     <main>
         <div class="container-fluid">
