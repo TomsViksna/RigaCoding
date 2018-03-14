@@ -155,7 +155,7 @@ var people = [{
 // ja nav neviens no šiem tad izvadam iterācijas numurs(index)
 
 
-for (var index = 0; index < 50; index++) {
+for (var index = 0; index <= 50; index++) {
 
     if (index % 2 == 0) {
         console.log("foo");

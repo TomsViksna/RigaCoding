@@ -4,6 +4,11 @@
 
 <head>
 
+<link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+  <link rel="stylesheet" href="/resources/demos/style.css">
+  <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+
 
 
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u"
@@ -28,6 +33,9 @@
     <link rel="stylesheet" type="text/css" href="css/page2.css">
     <link rel="stylesheet" type="text/css" href="css/page3.css">
     <link rel="stylesheet" type="text/css" href="css/styles.css">
+    <link rel="stylesheet" type="text/css" href="css/chat.css">
+    <link rel="stylesheet" type="text/css" href="css/register.css">
+    <link rel="stylesheet" type="text/css" href="css/aboutus.css">
 
 </head>
 
@@ -57,19 +65,15 @@
                         </li>
 
                         <li class="main-menu-item">
-                            <a href="page4.php">Article3</a>
+                            <a href="chat.php"> Chat</a>
                         </li>
 
                         <li class="main-menu-item">
-                            <a href="#"> Chat</a>
+                            <a href="register.php"> Register</a>
                         </li>
 
                         <li class="main-menu-item">
-                            <a href="#"> Register</a>
-                        </li>
-
-                        <li class="main-menu-item">
-                            <a href="#"> Article</a>
+                            <a href="aboutus.php"> About Us</a>
                         </li>
                 </div>
 

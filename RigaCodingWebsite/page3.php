@@ -1,7 +1,16 @@
 
-<header>
+
         <?php include 'header.php';?>
-</header>
+
+
+        <div class="row">
+<div class="col-xs-12 col-md-12 col-lg-12">
+        <ul class="breadcrumb">
+            <li><a href="index.php">Home</a></li>
+            <li>Articles2</li>
+        </ul>
+    </div>
+</row>
 
     <main>
 
@@ -93,6 +102,5 @@
 
     </main>
 
-</body>
+    <?php include 'footer.php';?>
 
-</html>

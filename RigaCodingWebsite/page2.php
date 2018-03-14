@@ -2,11 +2,16 @@
 
 <?php include 'header.php';?>
 
+
+<div class="row">
+<div class="col-xs-12 col-md-12 col-lg-12">
 <ul class="breadcrumb">
     <li><a href="index.php">Home</a></li>
     <li>Articles</li>
 </ul>
-<br><br>
+
+</div>
+</div>
 
 <main>
 
@@ -80,3 +85,5 @@
     <hr>
 
 </main>
+
+<?php include 'footer.php';?>
